@@ -1,0 +1,143 @@
+C:\Users\Cok'De Smara\Desktop\Kumpulan Program\Apotek\Apotek\Apotek\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Cok'De Smara\Desktop\Kumpulan Program\Apotek\Apotek\Apotek\obj\Debug\Apotek.FrmUtama.resources
+C:\Users\Cok'De Smara\Desktop\Kumpulan Program\Apotek\Apotek\Apotek\obj\Debug\Apotek.Resources.resources
+C:\Users\Cok'De Smara\Desktop\Kumpulan Program\Apotek\Apotek\Apotek\obj\Debug\Apotek.vbproj.GenerateResource.Cache
+C:\Users\Cok'De Smara\Desktop\Kumpulan Program\Apotek\Apotek\Apotek\bin\Debug\Apotek.exe
+C:\Users\Cok'De Smara\Desktop\Kumpulan Program\Apotek\Apotek\Apotek\bin\Debug\Apotek.pdb
+C:\Users\Cok'De Smara\Desktop\Kumpulan Program\Apotek\Apotek\Apotek\bin\Debug\Apotek.xml
+C:\Users\Cok'De Smara\Desktop\Kumpulan Program\Apotek\Apotek\Apotek\obj\Debug\Apotek.exe
+C:\Users\Cok'De Smara\Desktop\Kumpulan Program\Apotek\Apotek\Apotek\obj\Debug\Apotek.xml
+C:\Users\Cok'De Smara\Desktop\Kumpulan Program\Apotek\Apotek\Apotek\obj\Debug\Apotek.pdb
+C:\Users\Cok'De Smara\Desktop\Kumpulan Program\Apotek\Apotek\Apotek\obj\Debug\Apotek.FrmPegawai.resources
+C:\Users\Cok'De Smara\Desktop\Kumpulan Program\Apotek\Apotek\Apotek\obj\Debug\Apotek.FrmKategori.resources
+C:\Users\Cok'De Smara\Desktop\Kumpulan Program\Apotek\Apotek\Apotek\obj\Debug\Apotek.FrmSatuan.resources
+C:\Users\Cok'De Smara\Desktop\Kumpulan Program\Apotek\Apotek\Apotek\obj\Debug\Apotek.FrmObat.resources
+C:\Users\Cok'De Smara\Desktop\Kumpulan Program\Apotek\Apotek\Apotek\obj\Debug\Apotek.FrmLogin.resources
+C:\Users\Cok'De Smara\Desktop\Kumpulan Program\Apotek\Apotek\Apotek\obj\Debug\Apotek.FrmPembelian.resources
+C:\Users\Cok'De Smara\Desktop\Kumpulan Program\Apotek\Apotek\Apotek\obj\Debug\Apotek.FrmSupplier.resources
+C:\Users\Cok'De Smara\Desktop\Kumpulan Program\Apotek\Apotek\Apotek\obj\Debug\Apotek.FrmCariSupplier.resources
+C:\Users\Cok'De Smara\Desktop\Kumpulan Program\Apotek\Apotek\Apotek\obj\Debug\Apotek.FrmCariObatBeli.resources
+C:\Users\Cok'De Smara\Desktop\Kumpulan Program\Apotek\Apotek\Apotek\bin\Debug\Apotek.exe.config
+C:\Users\Cok'De Smara\Desktop\Kumpulan Program\Apotek\Apotek\Apotek\obj\Debug\Apotek.LprPembelian.resources
+C:\Users\Cok'De Smara\Desktop\Kumpulan Program\Apotek\Apotek\Apotek\obj\Debug\RdlCompile.cache
+C:\Users\Cok'De Smara\Desktop\Kumpulan Program\Apotek\Apotek\Apotek\obj\Debug\RdlCompile.compiled
+C:\Users\Cok'De Smara\Desktop\Project\Apotek\Apotek\Apotek\bin\Debug\Apotek.exe.config
+C:\Users\Cok'De Smara\Desktop\Project\Apotek\Apotek\Apotek\obj\Debug\Apotek.exe
+C:\Users\Cok'De Smara\Desktop\Project\Apotek\Apotek\Apotek\obj\Debug\Apotek.xml
+C:\Users\Cok'De Smara\Desktop\Project\Apotek\Apotek\Apotek\obj\Debug\Apotek.pdb
+I:\INSTALER\Project\Apotek\Apotek\Apotek\bin\Debug\Apotek.exe.config
+I:\INSTALER\Project\Apotek\Apotek\Apotek\obj\Debug\Apotek.exe
+I:\INSTALER\Project\Apotek\Apotek\Apotek\obj\Debug\Apotek.xml
+I:\INSTALER\Project\Apotek\Apotek\Apotek\obj\Debug\Apotek.pdb
+I:\INSTALER\Project\Apotek\Apotek\Apotek\bin\Debug\Apotek.exe
+I:\INSTALER\Project\Apotek\Apotek\Apotek\bin\Debug\Apotek.pdb
+I:\INSTALER\Project\Apotek\Apotek\Apotek\bin\Debug\Apotek.xml
+I:\INSTALER\Project\Apotek\Apotek\Apotek\obj\Debug\ResolveAssemblyReference.cache
+I:\INSTALER\Project\Apotek\Apotek\Apotek\obj\Debug\Apotek.FrmCariObatBeli.resources
+I:\INSTALER\Project\Apotek\Apotek\Apotek\obj\Debug\Apotek.FrmCariSupplier.resources
+I:\INSTALER\Project\Apotek\Apotek\Apotek\obj\Debug\Apotek.FrmKategori.resources
+I:\INSTALER\Project\Apotek\Apotek\Apotek\obj\Debug\Apotek.FrmLogin.resources
+I:\INSTALER\Project\Apotek\Apotek\Apotek\obj\Debug\Apotek.FrmObat.resources
+I:\INSTALER\Project\Apotek\Apotek\Apotek\obj\Debug\Apotek.FrmPegawai.resources
+I:\INSTALER\Project\Apotek\Apotek\Apotek\obj\Debug\Apotek.FrmPembelian.resources
+I:\INSTALER\Project\Apotek\Apotek\Apotek\obj\Debug\Apotek.FrmSatuan.resources
+I:\INSTALER\Project\Apotek\Apotek\Apotek\obj\Debug\Apotek.FrmSupplier.resources
+I:\INSTALER\Project\Apotek\Apotek\Apotek\obj\Debug\Apotek.FrmUtama.resources
+I:\INSTALER\Project\Apotek\Apotek\Apotek\obj\Debug\Apotek.LprPembelian.resources
+I:\INSTALER\Project\Apotek\Apotek\Apotek\obj\Debug\Apotek.Resources.resources
+I:\INSTALER\Project\Apotek\Apotek\Apotek\obj\Debug\Apotek.vbproj.GenerateResource.Cache
+I:\INSTALER\Project\Apotek\Apotek\Apotek\obj\Debug\RdlCompile.cache
+I:\INSTALER\Project\Apotek\Apotek\Apotek\obj\Debug\RdlCompile.compiled
+G:\INSTALER\Project\Apotek\Apotek\Apotek\bin\Debug\Apotek.exe.config
+G:\INSTALER\Project\Apotek\Apotek\Apotek\obj\Debug\Apotek.exe
+G:\INSTALER\Project\Apotek\Apotek\Apotek\obj\Debug\Apotek.xml
+G:\INSTALER\Project\Apotek\Apotek\Apotek\obj\Debug\Apotek.pdb
+G:\INSTALER\Project\Apotek\Apotek\Apotek\bin\Debug\Apotek.exe
+G:\INSTALER\Project\Apotek\Apotek\Apotek\bin\Debug\Apotek.pdb
+G:\INSTALER\Project\Apotek\Apotek\Apotek\bin\Debug\Apotek.xml
+G:\INSTALER\Project\Apotek\Apotek\Apotek\obj\Debug\ResolveAssemblyReference.cache
+G:\INSTALER\Project\Apotek\Apotek\Apotek\obj\Debug\Apotek.FrmCariObatBeli.resources
+G:\INSTALER\Project\Apotek\Apotek\Apotek\obj\Debug\Apotek.FrmCariSupplier.resources
+G:\INSTALER\Project\Apotek\Apotek\Apotek\obj\Debug\Apotek.FrmKategori.resources
+G:\INSTALER\Project\Apotek\Apotek\Apotek\obj\Debug\Apotek.FrmLogin.resources
+G:\INSTALER\Project\Apotek\Apotek\Apotek\obj\Debug\Apotek.FrmObat.resources
+G:\INSTALER\Project\Apotek\Apotek\Apotek\obj\Debug\Apotek.FrmPegawai.resources
+G:\INSTALER\Project\Apotek\Apotek\Apotek\obj\Debug\Apotek.FrmPembelian.resources
+G:\INSTALER\Project\Apotek\Apotek\Apotek\obj\Debug\Apotek.FrmSatuan.resources
+G:\INSTALER\Project\Apotek\Apotek\Apotek\obj\Debug\Apotek.FrmSupplier.resources
+G:\INSTALER\Project\Apotek\Apotek\Apotek\obj\Debug\Apotek.FrmUtama.resources
+G:\INSTALER\Project\Apotek\Apotek\Apotek\obj\Debug\Apotek.LprPembelian.resources
+G:\INSTALER\Project\Apotek\Apotek\Apotek\obj\Debug\Apotek.Resources.resources
+G:\INSTALER\Project\Apotek\Apotek\Apotek\obj\Debug\Apotek.vbproj.GenerateResource.Cache
+G:\INSTALER\Project\Apotek\Apotek\Apotek\obj\Debug\RdlCompile.cache
+G:\INSTALER\Project\Apotek\Apotek\Apotek\obj\Debug\RdlCompile.compiled
+C:\Users\sila\Desktop\Projek\Apotek\Apotek\Apotek\bin\Debug\Apotek.exe.config
+C:\Users\sila\Desktop\Projek\Apotek\Apotek\Apotek\obj\Debug\Apotek.exe
+C:\Users\sila\Desktop\Projek\Apotek\Apotek\Apotek\obj\Debug\Apotek.xml
+C:\Users\sila\Desktop\Projek\Apotek\Apotek\Apotek\obj\Debug\Apotek.pdb
+C:\Users\sila\Desktop\Projek\Apotek\Apotek\Apotek\bin\Debug\Apotek.exe
+C:\Users\sila\Desktop\Projek\Apotek\Apotek\Apotek\bin\Debug\Apotek.pdb
+C:\Users\sila\Desktop\Projek\Apotek\Apotek\Apotek\bin\Debug\Apotek.xml
+C:\Users\sila\Desktop\Projek\Apotek\Apotek\Apotek\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sila\Desktop\Projek\Apotek\Apotek\Apotek\obj\Debug\Apotek.FrmCariObatBeli.resources
+C:\Users\sila\Desktop\Projek\Apotek\Apotek\Apotek\obj\Debug\Apotek.FrmCariSupplier.resources
+C:\Users\sila\Desktop\Projek\Apotek\Apotek\Apotek\obj\Debug\Apotek.FrmKategori.resources
+C:\Users\sila\Desktop\Projek\Apotek\Apotek\Apotek\obj\Debug\Apotek.FrmLogin.resources
+C:\Users\sila\Desktop\Projek\Apotek\Apotek\Apotek\obj\Debug\Apotek.FrmObat.resources
+C:\Users\sila\Desktop\Projek\Apotek\Apotek\Apotek\obj\Debug\Apotek.FrmPegawai.resources
+C:\Users\sila\Desktop\Projek\Apotek\Apotek\Apotek\obj\Debug\Apotek.FrmPembelian.resources
+C:\Users\sila\Desktop\Projek\Apotek\Apotek\Apotek\obj\Debug\Apotek.FrmSatuan.resources
+C:\Users\sila\Desktop\Projek\Apotek\Apotek\Apotek\obj\Debug\Apotek.FrmSupplier.resources
+C:\Users\sila\Desktop\Projek\Apotek\Apotek\Apotek\obj\Debug\Apotek.FrmUtama.resources
+C:\Users\sila\Desktop\Projek\Apotek\Apotek\Apotek\obj\Debug\Apotek.LprPembelian.resources
+C:\Users\sila\Desktop\Projek\Apotek\Apotek\Apotek\obj\Debug\Apotek.Resources.resources
+C:\Users\sila\Desktop\Projek\Apotek\Apotek\Apotek\obj\Debug\Apotek.vbproj.GenerateResource.Cache
+C:\Users\sila\Desktop\Projek\Apotek\Apotek\Apotek\obj\Debug\RdlCompile.cache
+C:\Users\sila\Desktop\Projek\Apotek\Apotek\Apotek\obj\Debug\RdlCompile.compiled
+D:\Projek\Apotek\Apotek\Apotek\bin\Debug\Apotek.exe.config
+D:\Projek\Apotek\Apotek\Apotek\obj\Debug\Apotek.exe
+D:\Projek\Apotek\Apotek\Apotek\obj\Debug\Apotek.xml
+D:\Projek\Apotek\Apotek\Apotek\obj\Debug\Apotek.pdb
+D:\Projek\Apotek\Apotek\Apotek\bin\Debug\Apotek.exe
+D:\Projek\Apotek\Apotek\Apotek\bin\Debug\Apotek.pdb
+D:\Projek\Apotek\Apotek\Apotek\bin\Debug\Apotek.xml
+D:\Projek\Apotek\Apotek\Apotek\obj\Debug\ResolveAssemblyReference.cache
+D:\Projek\Apotek\Apotek\Apotek\obj\Debug\Apotek.FrmCariObatBeli.resources
+D:\Projek\Apotek\Apotek\Apotek\obj\Debug\Apotek.FrmCariSupplier.resources
+D:\Projek\Apotek\Apotek\Apotek\obj\Debug\Apotek.FrmKategori.resources
+D:\Projek\Apotek\Apotek\Apotek\obj\Debug\Apotek.FrmLogin.resources
+D:\Projek\Apotek\Apotek\Apotek\obj\Debug\Apotek.FrmObat.resources
+D:\Projek\Apotek\Apotek\Apotek\obj\Debug\Apotek.FrmPegawai.resources
+D:\Projek\Apotek\Apotek\Apotek\obj\Debug\Apotek.FrmPembelian.resources
+D:\Projek\Apotek\Apotek\Apotek\obj\Debug\Apotek.FrmSatuan.resources
+D:\Projek\Apotek\Apotek\Apotek\obj\Debug\Apotek.FrmSupplier.resources
+D:\Projek\Apotek\Apotek\Apotek\obj\Debug\Apotek.FrmUtama.resources
+D:\Projek\Apotek\Apotek\Apotek\obj\Debug\Apotek.LprPembelian.resources
+D:\Projek\Apotek\Apotek\Apotek\obj\Debug\Apotek.Resources.resources
+D:\Projek\Apotek\Apotek\Apotek\obj\Debug\Apotek.vbproj.GenerateResource.Cache
+D:\Projek\Apotek\Apotek\Apotek\obj\Debug\RdlCompile.cache
+D:\Projek\Apotek\Apotek\Apotek\obj\Debug\RdlCompile.compiled
+E:\Mikroskil\s4\tkppl\proj\Apotek\Apotek\Apotek\bin\Debug\Apotek.exe.config
+E:\Mikroskil\s4\tkppl\proj\Apotek\Apotek\Apotek\obj\Debug\Apotek.exe
+E:\Mikroskil\s4\tkppl\proj\Apotek\Apotek\Apotek\obj\Debug\Apotek.xml
+E:\Mikroskil\s4\tkppl\proj\Apotek\Apotek\Apotek\obj\Debug\Apotek.pdb
+E:\Mikroskil\s4\tkppl\proj\Apotek\Apotek\Apotek\bin\Debug\Apotek.exe
+E:\Mikroskil\s4\tkppl\proj\Apotek\Apotek\Apotek\bin\Debug\Apotek.pdb
+E:\Mikroskil\s4\tkppl\proj\Apotek\Apotek\Apotek\bin\Debug\Apotek.xml
+E:\Mikroskil\s4\tkppl\proj\Apotek\Apotek\Apotek\obj\Debug\Apotek.vbprojResolveAssemblyReference.cache
+E:\Mikroskil\s4\tkppl\proj\Apotek\Apotek\Apotek\obj\Debug\Apotek.FrmCariObatBeli.resources
+E:\Mikroskil\s4\tkppl\proj\Apotek\Apotek\Apotek\obj\Debug\Apotek.FrmCariSupplier.resources
+E:\Mikroskil\s4\tkppl\proj\Apotek\Apotek\Apotek\obj\Debug\Apotek.FrmKategori.resources
+E:\Mikroskil\s4\tkppl\proj\Apotek\Apotek\Apotek\obj\Debug\Apotek.FrmLogin.resources
+E:\Mikroskil\s4\tkppl\proj\Apotek\Apotek\Apotek\obj\Debug\Apotek.FrmObat.resources
+E:\Mikroskil\s4\tkppl\proj\Apotek\Apotek\Apotek\obj\Debug\Apotek.FrmPegawai.resources
+E:\Mikroskil\s4\tkppl\proj\Apotek\Apotek\Apotek\obj\Debug\Apotek.FrmPembelian.resources
+E:\Mikroskil\s4\tkppl\proj\Apotek\Apotek\Apotek\obj\Debug\Apotek.FrmSatuan.resources
+E:\Mikroskil\s4\tkppl\proj\Apotek\Apotek\Apotek\obj\Debug\Apotek.FrmSupplier.resources
+E:\Mikroskil\s4\tkppl\proj\Apotek\Apotek\Apotek\obj\Debug\Apotek.FrmUtama.resources
+E:\Mikroskil\s4\tkppl\proj\Apotek\Apotek\Apotek\obj\Debug\Apotek.LprPembelian.resources
+E:\Mikroskil\s4\tkppl\proj\Apotek\Apotek\Apotek\obj\Debug\Apotek.Resources.resources
+E:\Mikroskil\s4\tkppl\proj\Apotek\Apotek\Apotek\obj\Debug\Apotek.vbproj.GenerateResource.Cache
+E:\Mikroskil\s4\tkppl\proj\Apotek\Apotek\Apotek\obj\Debug\RdlCompile.cache
+E:\Mikroskil\s4\tkppl\proj\Apotek\Apotek\Apotek\obj\Debug\RdlCompile.compiled
+E:\Mikroskil\s4\tkppl\proj\Apotek\Apotek\Apotek\obj\Debug\Apotek.Baka.resources
